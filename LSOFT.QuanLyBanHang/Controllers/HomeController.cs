@@ -25,6 +25,7 @@ namespace LSOFT.QuanLyBanHang.Controllers
 
         public IActionResult Privacy()
         {
+
             return View();
         }
 
